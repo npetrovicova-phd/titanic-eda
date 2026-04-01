@@ -1,6 +1,6 @@
 # Titanic EDA 
 
-Exploratory Data Analysis on the Titanic Dataset using Python.
+Exploratory Data Analysis on the Titanic Dataset using Python
 
 ## Libraries Used
 - pandas, numpy, seaborn, matplotlib
